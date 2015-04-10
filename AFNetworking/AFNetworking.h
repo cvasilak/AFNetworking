@@ -1,4 +1,4 @@
-// AFNetworking.h
+// AFNetworking.h - private repo
 //
 // Copyright (c) 2013 AFNetworking (http://afnetworking.com/)
 // 
